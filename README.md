@@ -1,6 +1,6 @@
 # Cluster Docker Swarm com Vagrant
 
-Este projeto configura automaticamente um cluster **Docker Swarm** usando **Vagrant** e **VirtualBox**. Ele cria 4 máquinas virtuais Ubuntu com Docker instalado:
+Este projeto configura automaticamente um cluster **Docker Swarm** usando **Vagrant** e **VirtualBox**. Ele cria 3 máquinas virtuais Ubuntu com Docker instalado:
 
 - `master` (manager do cluster)
 - `node01`, `node02` (workers)
